@@ -1,0 +1,53 @@
+site_name: "H N Desai"
+theme:
+  name: material
+   
+  palette: 
+    
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: black
+      accent: deep orange 
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: blue grey
+      accent: indigo  
+
+  features:
+    - navigation.tabs: false
+    - navigation.top: false
+    - navigation.footer
+
+
+nav:
+  - About Me: index.md
+  - Resume: cv.md
+  - Achievements: achievements.md
+ 
+copyright: Copyright &copy; 2025 H N Desai 
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hndesai/  
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:hndesai@gmail.com
+# to remove the footer stating "created using mkdocs"
+  generator: false    
+
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences    
