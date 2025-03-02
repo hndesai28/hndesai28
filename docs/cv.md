@@ -1,6 +1,13 @@
 # Work Experience
 
-## Work Experience of 44+ years (1978 - 2024)
+## Work Experience of 45+ years (1978 - 2024)
+
+### Jan 2023 – March 2024
+**Senior Advisor - Product Development & QC**  
+*Meheraa Dairy Foods & Products Pvt. Ltd, Pune* (Subsidary of Kalyani Group of Companies)
+
+- Develped natural Greek yogurt, Frozen yogurt, natural icecreams.
+
 
 ### Aug 2021 – Dec 2022
 **Plant Head**  
@@ -9,6 +16,7 @@
 - Managed plant facilities for manufacturing Milk Powder, Butter, Paneer, Dahi, Fruit Yoghourt, Smoothie, Lassi, Buttermilk, and Flavoured Milk.
 - Recently launched coconut water in PP bottles and planned to launch fruit drinks.
 - Initiated the introduction of Natural Ice creams without artificial flavours, colours, or stabilisers.
+- Started separating paneer-whey to collect milk fat.
 
 ### May 2016 – July 2021
 **Head R & D and Consultant**  
@@ -54,5 +62,5 @@
 **Factory Manager Malted Food Division**  
 *Warana Dairy, Warana Nagar*
 
-- Managed production of CADBURY'S *Bournvita* & Cocoa Powder, Past. Milk, SMP, WMP, Shrikhand, Lassi, Paneer, Ghee, and Butter.
+- Managed production of CADBURY'S *Bournvita* & Cocoa Powder, pasteurized Milk, SMP, WMP, Shrikhand, Lassi, Paneer, Ghee, Butter & infant foods.
 - Led project planning and execution for malted food manufacturing.

@@ -9,18 +9,29 @@ hide:
 📞 +91 9689 88 3732 | ✉️ hndesai@gmail.com
 
 ## Professional Experience
-Bringing 44 years of extensive experience in the dairy and food industry, specializing in production, project execution, quality control, and product development. Expertise includes the formulation and development of a wide range of products, including:
 
-- Dairy Products: Cheddar cheese, processed cheese, cream cheese, butter, milk powders, shrikhand, lactose, whey powder, whey protein concentrate, whipping cream, and butter spread.
-- Infant & Specialty Nutrition: Infant milk food, malted foods, and whey-based products.
-- Egg-Based Products: Egg powder, omelette mix, and scrambled egg mix.
-- Beverages & Frozen Desserts: Milkshakes, flavored milks, UHT yogurt drinks, yogurt fruit drinks, and UHT processed ice cream mix.
-- Non-Dairy Innovations: Non-dairy whipping cream.
-- Fruits & Specialty Powders: Mango powder.
-- Proven track record in leading project execution, optimizing production processes, and fostering a strong work culture to drive operational excellence.
+Results-driven professional with a proven track record in leading project execution, optimizing production processes, and fostering a strong work culture to drive operational excellence.
+
+Bringing 45+ years of extensive experience in the dairy and food industry. Specializing in production, project execution, quality control, and product development. Expertise in formulating and developing a wide range of dairy and food products, including:
+
+* Dairy Products:
+  > Cheddar cheese, processed cheese, cream cheese, butter, milk powders, shrikhand, lactose, whey powder, whey protein concentrate, whipping cream, butter spread, Milkshakes, flavored milks, UHT milk, yogurt, Greek yogurt, Yogurt drinks, UHT procesed icecream mix, icecreams and butter milk etc.
+
+* Sepciality Nutrition:  
+  > Infant milk food, malted foods and whey-based products.
+
+* Non-Dairy Innovations: 
+ > Non-dairy whipping cream, Egg powder, omelette mix and scrambled egg mix.
+
+* Fruits & Bevereges 
+  > Fruit juices & drinks, Fruit powders, sugarcane juice, sugarcane juice powder, UHT & bottled coconut water.
+
+ 
+
 
 ### Recent Roles:
-- **Plant Head (Aug 2021 - Present)**, Dairy Power Ltd. Nashik
+- **Senior Advisor - Product Development & QC (Jan 2023 - March 2024)** Meheraa Dairy Foods & Products Pvt. Ltd, Pune
+- **Plant Head (Aug 2021 - Dec2022)**, Dairy Power Ltd. Nashik
 - **Head R&D and Consultant (May 2016 - July 2021)**, Warana Dairy
 - **Vice President (Operation) (Nov 2015 – May 2016)**, Swaraj India Industries Ltd.
 - **CEO (Aug 2010 - Apr 2014)**, Warana Dairy and Agro Ind. Ltd.
