@@ -29,8 +29,34 @@
 
     - Awarded the Haldikar award for best-managed Bournvita production factory by the Maharashtra Government.
 
+    ![Award](https://raw.githubusercontent.com/hndesai28/hndesai28/main/docs/assets/images/Haldikar_award.jpg)
+
+
+    ---
+
+    
+
+
+
+
     
 
 === "Certificates"
 
-  
+
+    ![Hamburg, Germany visit](https://raw.githubusercontent.com/hndesai28/hndesai28/main/docs/assets/images/Germany.jpg)
+
+    ---
+
+    ![Gondal, Gujarat](https://raw.githubusercontent.com/hndesai28/hndesai28/main/docs/assets/images/Gondal.jpg)
+
+    ---
+
+    ![Pune, Maharashtra](https://raw.githubusercontent.com/hndesai28/hndesai28/main/docs/assets/images/img1.jpg)
+
+    ---
+
+    ![Pune, Maharashtra](https://raw.githubusercontent.com/hndesai28/hndesai28/main/docs/assets/images/img2.jpg)
+
+    ---
+
