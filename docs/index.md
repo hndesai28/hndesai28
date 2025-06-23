@@ -7,7 +7,7 @@
 ### Meheraa Dairy, Pune
 **Senior Advisor - Product Development & QC**  
 *Meheraa Dairy Foods & Products Pvt. Ltd, Pune* 
-(Subsidary of Kalyani Group of Companies),
+(Subsidary of Kalyani Group of Companies), 
 Jan 2023 – March 2024
 
 - Develped natural Greek yogurt, Frozen yogurt, natural icecreams.
@@ -16,7 +16,7 @@ Jan 2023 – March 2024
 
 ### Dairy Power, Nashik
 **Plant Head**  
-*Dairy Power Ltd. Nashik*
+*Dairy Power Ltd. Nashik*, 
 Aug 2021 – Dec 2022
 
 - Managed plant facilities for manufacturing Milk Powder, Butter, Paneer, Dahi, Fruit Yoghourt, Smoothie, Lassi, Buttermilk, and Flavoured Milk.
@@ -28,7 +28,7 @@ Aug 2021 – Dec 2022
 
 ### Warana Dairy, Kolhapur
 **Head R & D and Consultant**  
-*Warana Dairy, Warana Nagar*
+*Warana Dairy, Warana Nagar*, 
 May 2016 – July 2021
 
 - Acted as a consultant for various new and ongoing products.
@@ -37,7 +37,7 @@ May 2016 – July 2021
 
 ### Swaraj Dairy, Phaltan 
 **Vice President (Operation)**  
-*Swaraj India Industries Ltd*
+*Swaraj India Industries Ltd*, 
 Nov 2015 – May 2016
 
 - Oversaw plant operations.
@@ -46,8 +46,7 @@ Nov 2015 – May 2016
 
 ### Prabhat Dairy, Shrirampur 
 **Head (Research & Development)**  
-*Prabhat Dairy Ltd.*
-
+*Prabhat Dairy Ltd.*, 
 Jan 2014 – Oct 2015
 
 - Established a new R&D lab and standardized processes for indigenous products like Shrikhand and Paneer.
@@ -58,7 +57,7 @@ Jan 2014 – Oct 2015
 
 ### Warana Dairy, Kolhapur
 **CEO**  
-*Warana Dairy and Agro Ind. Ltd*
+*Warana Dairy and Agro Ind. Ltd*, 
 Aug 2010 – Apr 2014
 
 - Managed production of UHT Juices, drinks, milk, flavoured milk, UHT Coconut water, UHT milk shakes, and yoghurt drinks (Dabur Brand).
@@ -68,7 +67,7 @@ Aug 2010 – Apr 2014
 
 ### IFFCO, UAE
 **Product Development Manager**  
-*IFFCO Group of Companies, U.A.E. (Al Ain National Juice and Refreshment Co.)*
+*IFFCO Group of Companies, U.A.E. (Al Ain National Juice and Refreshment Co.)*, 
 Jul 2001 – Jun 2010
 
 - Managed development of UHT milk, flavoured milks, milk shakes, fruit juices, nectars, drinks in PET Bottles, mayonnaise, and tomato ketchup.
@@ -77,7 +76,7 @@ Jul 2001 – Jun 2010
 
 ### Schreiber Dynamix Dairy
 **General Manager QC and R&D**  
-*Dynamics Dairy Industries LTD (Schreiber Dynamix Dairy)*
+*Dynamics Dairy Industries LTD (Schreiber Dynamix Dairy)*, 
 Apr 1995 – Jul 2001
 
 - Developed products for brands such as Nestlé (UHT Milk, Dahi), Tropicana (Juices), and Britannia (Flavoured milk).
@@ -86,7 +85,7 @@ Apr 1995 – Jul 2001
 ---
 
 ### Warana Dairy
-**Factory Manager Malted Food Division**  
+**Factory Manager Malted Food Division** ,  
 *Warana Dairy, Warana Nagar*
 Nov 1984 – Apr 1995
 
@@ -97,7 +96,7 @@ Nov 1984 – Apr 1995
 
 ### Gujarat Fedaration
 **Superintendent (Quality Control)**  
-*Guj.Coop.Milk Marketing Federation Ltd, Anand*
+*Guj.Coop.Milk Marketing Federation Ltd, Anand*, 
 Oct 1978 - Oct 1984
 
 - Products: AMUL Baby Food, SMP, WMP, milk, table Butter, Ghee.
