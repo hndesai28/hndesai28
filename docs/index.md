@@ -2,6 +2,8 @@
 
 ## Work Experience of 45+ years (1978 - 2024)
 
+---
+
 ### Meheraa Dairy, Pune
 **Senior Advisor - Product Development & QC**  
 *Meheraa Dairy Foods & Products Pvt. Ltd, Pune* 
