@@ -27,8 +27,8 @@ theme:
 
 
 nav:
-  - About Me: index.md
-  - Resume: cv.md
+  - Resume: index.md
+  - About Me: cv.md
   - Achievements: achievements.md
  
 copyright: Copyright &copy; 2025 H N Desai 

@@ -1,66 +1,56 @@
-# Work Experience
-
-## Work Experience of 45+ years (1978 - 2024)
-
-### Jan 2023 – March 2024
-**Senior Advisor - Product Development & QC**  
-*Meheraa Dairy Foods & Products Pvt. Ltd, Pune* (Subsidary of Kalyani Group of Companies)
-
-- Develped natural Greek yogurt, Frozen yogurt, natural icecreams.
+<!-- ---
+hide:
+  - navigation
+  - toc
+--- -->
 
 
-### Aug 2021 – Dec 2022
-**Plant Head**  
-*Dairy Power Ltd. Nashik*
+# H N Desai
+📞 +91 9689 88 3732 | ✉️ hndesai@gmail.com
 
-- Managed plant facilities for manufacturing Milk Powder, Butter, Paneer, Dahi, Fruit Yoghourt, Smoothie, Lassi, Buttermilk, and Flavoured Milk.
-- Recently launched coconut water in PP bottles and planned to launch fruit drinks.
-- Initiated the introduction of Natural Ice creams without artificial flavours, colours, or stabilisers.
-- Started separating paneer-whey to collect milk fat.
+## Professional Experience
 
-### May 2016 – July 2021
-**Head R & D and Consultant**  
-*Warana Dairy, Warana Nagar*
+Results-driven professional with a proven track record in leading project execution, optimizing production processes, and fostering a strong work culture to drive operational excellence.
 
-- Acted as a consultant for various new and ongoing products.
+Bringing 45+ years of extensive experience in the dairy and food industry, with specialization in production, project execution, quality control, and product development. Proven expertise in formulating and developing a wide range of dairy and food products.
 
-### Nov 2015 – May 2016
-**Vice President (Operation)**  
-*Swaraj India Industries Ltd*
+Key accomplishments include:
 
-- Oversaw plant operations.
+- Independently implemented a full-scale malted milk food manufacturing facility.
 
-### Jan 2014 – Oct 2015
-**Head (Research & Development)**  
-*Prabhat Dairy Ltd.*
+- Successfully led the end-to-end execution of a Tetra Pak project for aseptic packaging of milk and juice products.
 
-- Established a new R&D lab and standardized processes for indigenous products like Shrikhand and Paneer.
-- Conducted lab trials for cream cheese, Greek yoghurt, and yoghurt with oat.
-- Developed whey drinks and whey-based smoothies.
+- Executed the setup of a modern ice cream manufacturing plant.
 
-### Aug 2010 – Apr 2014
-**CEO**  
-*Warana Dairy and Agro Ind. Ltd*
+#### Product Expertise:
 
-- Managed production of UHT Juices, drinks, milk, flavoured milk, UHT Coconut water, UHT milk shakes, and yoghurt drinks (Dabur Brand).
-- Led project planning and execution of 20,000 Ltr/day Ice cream production.
+* Dairy Products:
+  > Butter milk, Lassi, Drink Yogurt, Skim mink Powder, Full Cream milk powder, Butter, milk powders, shrikhand, lactose, whey powder, whey protein concentrate, whipping cream, butter spread, Milkshakes, flavored milks, UHT milk, yogurt, Greek yogurt, Yogurt drinks, UHT procesed icecream mix, icecreams and butter milk etc.
 
-### Jul 2001 – Jun 2010
-**Product Development Manager**  
-*IFFCO Group of Companies, U.A.E. (Al Ain National Juice and Refreshment Co.)*
+* Sepciality Nutrition:  
+  > Infant milk food, malted foods and whey-based products.
 
-- Managed development of UHT milk, flavoured milks, milk shakes, fruit juices, nectars, drinks in PET Bottles, mayonnaise, and tomato ketchup.
+* Non-Dairy Innovations: 
+ > Non-dairy whipping cream, Egg powder, omelette mix and scrambled egg mix.
 
-### Apr 1995 – Jul 2001
-**General Manager QC and R&D**  
-*Dynamics Dairy Industries LTD (Schreiber Dynamix Dairy)*
+* Fruits & Bevereges 
+  > Fruit juices & drinks, Fruit powders, sugarcane juice, sugarcane juice powder, UHT & bottled coconut water.
 
-- Developed products for brands such as Nestlé (UHT Milk, Dahi), Tropicana (Juices), and Britannia (Flavoured milk).
-- Managed production of SMP, WMP, Sweet Whey Powder, WPC, MPC, Cheese, Casein, Lactose, and Table Butter.
+ 
+## Education
+- **B.Sc. (Dairy Technology)** - 1974
+- **M.Sc. (Dairy Technology)** - 1977
+- **M.Sc. (Dairy Extension)** - 1978
 
-### Nov 1984 – Apr 1995
-**Factory Manager Malted Food Division**  
-*Warana Dairy, Warana Nagar*
 
-- Managed production of CADBURY'S *Bournvita* & Cocoa Powder, pasteurized Milk, SMP, WMP, Shrikhand, Lassi, Paneer, Ghee, Butter & infant foods.
-- Led project planning and execution for malted food manufacturing.
+## Details
+
+📞 **Phone:** +91 9689 88 3732
+📧 **Email:** hndesai@gmail.com  
+📍 **Location:** Future Towers, Tower 51, Flat 802, Amanora Township, Hadapsar, Pune-28  
+💼 [LinkedIn](https://www.linkedin.com/in/hndesai/)  
+
+
+!!! note "Note"
+
+    The preferred mode of communication is email, with a clearly specified subject line.
