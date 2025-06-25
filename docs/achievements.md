@@ -34,6 +34,19 @@
 
     ---
 
+    - Life Achievement Award
+
+    ![Pune1, Maharashtra](https://raw.githubusercontent.com/hndesai28/hndesai28/main/docs/assets/images/life_achievement_award.jpg)
+
+
+    ![Pune2, Maharashtra](https://raw.githubusercontent.com/hndesai28/hndesai28/main/docs/assets/images/img2.jpg)
+
+    ![Pune3, Maharashtra](https://raw.githubusercontent.com/hndesai28/hndesai28/main/docs/assets/images/img3.jpg)
+
+    ---
+
+    ![Pune4, Maharashtra](https://raw.githubusercontent.com/hndesai28/hndesai28/main/docs/assets/images/img4.jpg)
+
     
 
 
@@ -56,7 +69,6 @@
 
     ---
 
-    ![Pune, Maharashtra](https://raw.githubusercontent.com/hndesai28/hndesai28/main/docs/assets/images/img2.jpg)
-
+   
     ---
 
